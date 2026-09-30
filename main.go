@@ -8,4 +8,5 @@ func main() {
 
 func greet() {
 	fmt.Println("coffee log")
+	// 01
 }
